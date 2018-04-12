@@ -1,0 +1,5 @@
+include 'Application'
+//project(':ble').projectDir = file('../bleNRF/Android-BLE-Library/ble')
+//project(':common').projectDir = file('../bleNRF/Android-nRF-Toolbox/common')
+//project(':wear').projectDir = file('../bleNRF/Android-nRF-Toolbox/wear')
+//project(':nrfToolbox').projectDir = file('../bleNRF/Android-nRF-Toolbox/app')
